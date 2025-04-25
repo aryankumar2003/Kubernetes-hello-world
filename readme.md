@@ -8,7 +8,7 @@ This project demonstrates deploying a simple "Hello World" web application using
 hello-world-devops/
 ├── app/
 │   └── index.html          # Simple HTML page displaying "Hello world from kubernetes"
-├── demo/                   # Demo materials and documentation
+├── demo/                   # Demo materials
 ├── docker/
 │   └── Dockerfile          # Instructions to build the nginx-based Docker image
 ├── k8s/
